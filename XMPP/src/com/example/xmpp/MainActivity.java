@@ -34,7 +34,7 @@ public class MainActivity extends FragmentActivity {
 	private static final String SERVICE = "gmail.com";
 
 	private static final String USERNAME = "supervisor@iuyet.com.mx";
-	private static final String PASSWORD = "iuyet321";
+	private static final String PASSWORD = "*****";
 
 	private static final String TO = "iuyet-csgit-cao@appspot.com";
 
